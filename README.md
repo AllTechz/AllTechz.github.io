@@ -1,2 +1,2 @@
 # AllTechz.github.io
-#Here you go
+#This is the README.md
